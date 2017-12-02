@@ -43,6 +43,8 @@ a:hover, a:active{
   text-decoration: bold;
 }
 
+}
+
 .body{
   margin:0 auto;
   width:70%;
@@ -84,10 +86,11 @@ a:hover, a:active{
 }
 
 .mainHeader nav a:link{
-  display: inline-block;
+  display: none;
   padding: 10px 20px;
   height: 20px;
   color: #000;
+
 }
 
 .mainHeader nav a:hover, .mainHeader nav a:active, .mainHeader nav .active a:link, .mainHeader nav .active a:visited{
@@ -207,7 +210,9 @@ a:hover, a:active{
     font-size: 95%;
   }
   .mainHeader img{
-    width: 100%;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%; 
   }
   .mainHeader nav{
     height: 240px;
