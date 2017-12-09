@@ -188,6 +188,11 @@ a:hover, a:active{
   height:auto;
 }
 
+.middle-sidebar audio{
+  width:100%;
+  height:auto;
+}
+
 .bottom-sidebar{
   width: 21%;
   float:left;
