@@ -84,7 +84,7 @@ a:hover, a:active{
   padding: 10px 20px;
   height: 20px;
 }
-
+/* this was used to set the colour of the links visited to a grey but only the text */
 .mainHeader nav a:link{
   display: inline-block;
   padding: 10px 20px;
@@ -99,7 +99,7 @@ a:hover, a:active{
   color: #FFF;
   
 }
-
+/* this is to set the background colour of active and any link you hover over to a burgendy */
 .mainHeader nav ul li a{
   border-radius: 5px;
 }
@@ -231,7 +231,7 @@ a:hover, a:active{
   width:100px; 
   height:10px;
 }
-
+/* the media queary is here to change the nav bar mainly so when the device has a small width the nav stacks the links above one another */
 @media only screen and (max-width: 1000px){
   .body{
     width:90%;
