@@ -51,7 +51,7 @@ a:hover, a:active{
   clear:both;
   
 }
-
+/* the body will only take up 70% of the screen leaving a gap on the left and right this is a very mainstream design as it ruduces cluttering of the page */
 .mainHeader img{
   width: 60%;
   height:250px;
@@ -59,7 +59,7 @@ a:hover, a:active{
   border-radius: 4%;
   border-color: #FFF;
 }
-
+/* this was used to set the width and style of the image above the navigation */
 .mainHeader nav{
   background-color: #F5F3EE;
   height: 40px;
@@ -115,12 +115,12 @@ a:hover, a:active{
   float:left;
  
 }
-
+/* this sets the content to 70% of the body */
 .contentFull{
   width: 100%;
   float:left;
 }
-
+/* This was for the comparison page as i wanted colums and a full text section so had to have two different defintions for content */
 .topcontent{
   background-color: #F5F3EE;
   border-radius: 5px;
@@ -156,7 +156,7 @@ a:hover, a:active{
   font-size:85%;
   color: #999;
 }
-
+/* this is the small bit of text under the title of each piece of content, on mobile this is not displayed */
 .top-sidebar{
   width: 21%;
   float:left;
