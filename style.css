@@ -59,7 +59,7 @@ a:hover, a:active{
   margin: 0 auto;
   
 }
-/* the top and bottom margin is 0 and the left and right is done automatically for better respociveness 
+/* the top and bottom margin is 0 and the left and right is done automatically for better respociveness */
 .mainHeader nav ul li{
   float:left;
   display:inline;
