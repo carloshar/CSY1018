@@ -1,17 +1,4 @@
-/*
-This is a Cascading Style Sheet (CSS).
-It describes rules for styling your HTML markup.
 
-To use this file, place the following <link> tag anywhere in the <head> of your HTML file, making sure that the filename after "href" matches the name of your file....
-
-    <head>
-        <link rel="stylesheet" href="style.css">
-    </head>
-
-Learn more about CSS at https://developer.mozilla.org/en-US/docs/Web/Guide/CSS
-
-When you're done, you can delete all of this grey text, it's just a comment.
-*/
 
 /* Fonts from Google Fonts - more at https://fonts.google.com */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
@@ -26,12 +13,12 @@ body{
   line-height: 1.5;
   text-align: left;
 }
-
+/* here i have made the body (entire screen) an image which is a subtile image i obtained online the link to it it in the html */
 
 a{
   text-decoration: none;
 }
-
+/* This was used to remove the text decoraton on a link which is a blue font and an underline */
 a:link, a:visited{
   color:#7D1935;
 }
@@ -42,7 +29,7 @@ a:hover, a:active{
   border-radius: 5px;
   text-decoration: bold;
 }
-
+/* the border-radius gives the corners of the object a curve with the radius of 5 pixels*/
 
 
 .body{
@@ -72,7 +59,7 @@ a:hover, a:active{
   margin: 0 auto;
   
 }
-
+/* the top and bottom margin is 0 and the left and right is done automatically for better respociveness 
 .mainHeader nav ul li{
   float:left;
   display:inline;
