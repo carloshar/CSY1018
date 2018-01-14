@@ -237,7 +237,7 @@ a:hover, a:active{
 
   .mainHeader nav ul{
     padding-left:0;
-
+    display:block;
   }
 
   .mainHeader nav ul li{
