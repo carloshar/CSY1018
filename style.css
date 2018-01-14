@@ -238,6 +238,8 @@ a:hover, a:active{
   .mainHeader nav ul{
     padding-left:0;
     display:block;
+    width:100%;
+    text-align: center;
   }
 
   .mainHeader nav ul li{
