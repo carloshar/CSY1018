@@ -248,7 +248,9 @@ a:hover, a:active{
     text-align: center;
     float:none;
   }
-
+  .mainHeader nav ul li a{
+    float:none;
+  }
   .mainHeader nav a:link, .mainHeader nav a:visited{
     padding: 10px 8px;
     height: 20px;
