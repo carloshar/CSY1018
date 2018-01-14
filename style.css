@@ -240,11 +240,13 @@ a:hover, a:active{
     display:block;
     width:100%;
     text-align: center;
+    float:none;
   }
 
   .mainHeader nav ul li{
     width:100%;
     text-align: center;
+    float:none;
   }
 
   .mainHeader nav a:link, .mainHeader nav a:visited{
