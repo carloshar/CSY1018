@@ -159,7 +159,7 @@ a:hover, a:active{
   height:auto;
 }
 
-
+/*this sets the image in the sidebar to 100% in height*/
 .middle-sidebar{
   width: 21%;
   float:left;
