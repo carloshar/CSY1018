@@ -89,8 +89,7 @@ a:hover, a:active{
 }
 /* this is to set the background colour of active and any link you hover over to a burgendy */
 .mainHeader nav ul li a{
-  border-radius: 5px;
-  
+  border-radius: 5px; 
 }
 
 .mainContent {
