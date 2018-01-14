@@ -40,7 +40,7 @@ a:hover, a:active{
 }
 /* the body will only take up 70% of the screen leaving a gap on the left and right this is a very mainstream design as it ruduces cluttering of the page */
 .mainHeader img{
-  width: 60%;
+  width: 40%;
   height:250px;
   margin: 2% 0;
   border-radius: 4%;
